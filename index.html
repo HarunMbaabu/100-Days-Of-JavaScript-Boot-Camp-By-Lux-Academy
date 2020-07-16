@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <link rel="stylesheet" href="static/app.css">
+    <!-- end of web manifest -->
+</head>
+
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <h2>Modal Example</h2>
+
+        <button class="burger" id="burger">
+            &#9776
+        </button>
+
+        <ul>
+            <li><a href="luxtechacademy.com">Home</a></li>
+            <li><a rel="noopener" target="_blank" href="#">Learn</a>
+            </li>
+            <li>
+                <a href="https://twitter.com/lux_academy?ref_src=twsrc%5Etfw" class="twitter-follow-button"
+                    data-show-count="false">Follow</a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </li>
+        </ul>
+    </nav>
+
+    <!-- Content -->
+    <div class="content">
+        <img src="static/images/barn.jpeg" alt="">
+        <button id="open">
+            <b> Subscribe </b></button>
+        <footer>
+            <span class="footer_desc">Developed with ❤️ by <a class="git_link" href="https://luxtechacademy.com"
+                    target="_blank" rel="noopener">Lux Tech Academy</a></span>
+        </footer>
+    </div>
+
+    <!-- Hidden Modal -->
+    <div class="modal-container" id="modal_container">
+        <div class="modal">
+            <h1> 🎉 Congratulation 🎉</h1>
+            <p>
+                Congratulation, You made it. You created your first component (Modal component) @100DaysOfJavaScript
+                with Lux Academy.
+            </p>
+            <p>100 Days of code with Lux is a program by lux tech academy which runs for 100 days in each tech it
+                involves 100 day of intensive coding and practise and sharing your progress with peers. You can join us
+                by sending your application to luxtinc@gmail.com</p>
+
+            <button id="close">close</button>
+        </div>
+    </div>
+</body>
+<script src="static/index.js"></script>
+<!-- Burger SCRIPTS-->
+<script>
+    const burger = document.getElementById('burger');
+    const ul = document.querySelector('nav ul');
+    burger.addEventListener('click', () => {
+        ul.classList.toggle('show');
+    })
+</script>
+
+
+</html>

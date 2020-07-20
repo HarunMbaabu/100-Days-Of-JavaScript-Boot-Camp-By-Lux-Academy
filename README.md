@@ -35,11 +35,19 @@
 <p>
 7. Finally, click the Install button to run the installer. When it finishes, click Finish. </p>
 <p>
+<hr>
+<h3>
+  Step 3: Verify Installation
+</h3>
+<hr>
+<p> Open a command prompt (or PowerShell), and enter the following: </p>
+<code> node –v </code>
+<p> The system should display the Node.js version installed on your system. You can do the same for NPM: </p>
+<code> npm –v </code> 
+<p> To run the code Navigate to the specific sub-folder and use node to run the code as shown below</p>
 
 
-
-
-
+<code> node _filed name </code>
 <p align="center">
 <img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/strings/demo.png">
 </p>

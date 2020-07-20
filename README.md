@@ -5,5 +5,5 @@
 
 
 <p align="center">
-<img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/modal_project1/static/images/barn.jpeg">
+<img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/strings/demo.png">
 </p>

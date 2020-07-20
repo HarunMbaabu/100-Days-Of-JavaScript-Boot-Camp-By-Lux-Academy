@@ -51,43 +51,7 @@ body {
     font-size: 14px;
 }
 
-.modal-container{
-    /* display: none; */
-    opacity: 0;
-    pointer-events: none;
-    position: fixed;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    top: 0;
-    left: 0;
-    height: 100vh;
-    width: 100vw;
-    background-color: rgba(0, 0, 0, 0.3);
-    transition: opacity 0.3s ease;
-}
-.modal-container.show {
-    pointer-events: auto;
-    opacity: 1;
-}
 
-.modal {
-    border-radius: 5px;
-    padding: 30px 50px;
-    background-color: white;
-    width: 600px;
-    max-width: 100%;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    text-align: center;
-}
-
-.modal h1 {
-    margin: 0;
-}
-.modal p {
-    font-size: 14px;
-    opacity: 0.7;
-}
 
 footer{
     display: flex;
@@ -218,3 +182,98 @@ nav ul li a:hover::after{
         height: 250px;
     }
 }
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    padding: 00px 00px;
+    max-height: 100%;
+    align-items: center;
+    justify-content: center;
+    left: 0;
+    top: 0;
+    border-radius: 5px;
+    background-color: white;
+    max-width: 100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    align-content: center;
+    overflow: auto;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 5% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+    color: red;
+    float: right;
+    top: 0px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+   .close:hover,
+   .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  /* baloons */
+#balloon-container {
+    height: 350px;
+    padding: 1em;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+  }
+  
+  .balloon {
+    height: 60px;
+    width: 54px;
+    border-radius: 75% 75% 70% 70%;
+    position: relative;
+  }
+  
+  .balloon:before {
+    content: "";
+    height: 75px;
+    width: 1px;
+    padding: 1px;
+    background-color: #FDFD96;
+    display: block;
+    position: absolute;
+    top: 125px;
+    left: 0;
+    right: 0;
+    margin: auto;
+  }
+  
+  .balloon:after {
+      content: "▲";
+      text-align: center;
+      display: block;
+      position: absolute;
+      color: inherit;
+      top: 120px;
+      left: 0;
+      right: 0;
+      margin: auto;
+  }
+  
+  @keyframes float {
+    from {transform: translateY(100vh);
+    opacity: 1;}
+    to {transform: translateY(-300vh);
+    opacity: 0;}
+  }

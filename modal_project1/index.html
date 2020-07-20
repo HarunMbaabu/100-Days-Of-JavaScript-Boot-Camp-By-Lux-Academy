@@ -16,6 +16,7 @@
 
         <button class="burger" id="burger">
             &#9776
+            
         </button>
 
         <ul>
@@ -42,22 +43,35 @@
     </div>
 
     <!-- Hidden Modal -->
-    <div class="modal-container" id="modal_container">
-        <div class="modal">
-            <h1> 🎉 Congratulation 🎉</h1>
-            <p>
-                Congratulation, You made it. You created your first component (Modal component) @100DaysOfJavaScript
-                with Lux Academy.
-            </p>
-            <p>100 Days of code with Lux is a program by lux tech academy which runs for 100 days in each tech it
-                involves 100 day of intensive coding and practise and sharing your progress with peers. You can join us
-                by sending your application to luxtinc@gmail.com</p>
+    <div id="myModal" class="modal">
+        <!-- Modal content -->
+        <div class="modal-content">
+            <div id="balloon-container">
 
-            <button id="close">close</button>
+                <span class="close">&times;</span>
+                <br>
+                <div>
+                    <h1> 🎉 Congratulation 🎉</h1>
+                    <p>
+                        Congratulation, You made it. You created your first component (Modal component)
+                        @100DaysOfJavaScript
+                        with Lux Academy.
+                    </p>
+                    <p>100 Days of code with Lux is a program by lux tech academy which runs for 100 days in each tech
+                        it
+                        involves 100 day of intensive coding and practise and sharing your progress with peers. You can
+                        join us
+                        by sending your application to luxtinc@gmail.com</p>
+                    <br>
+                    <button id="btn-in-modal"> <a href="https://learn.luxtechacademy.com/"><b>Home</b></a></button>
+                    <button id="btn-in-modal"> <a href="https://learn.luxtechacademy.com/"><b>Courses</b></a></button>
+                </div>
+            </div>
         </div>
     </div>
 </body>
 <script src="static/index.js"></script>
+<script src="static/bal.js"></script>
 <!-- Burger SCRIPTS-->
 <script>
     const burger = document.getElementById('burger');

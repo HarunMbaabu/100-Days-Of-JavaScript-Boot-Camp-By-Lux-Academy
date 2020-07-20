@@ -12,10 +12,13 @@
 <p> <b>
   This guide will help you install and update Node.js and NPM on a Windows system and other useful Node.js commands.
 </b> </p>  
-  
+  <hr>
 <h3> Step 1: Download Node.js Installer </h3>
+<hr>
+
 <p> Visit NodeJS official webpage https://nodejs.org/en/download/ and download installer acording to your system </p>
-<h3>Step 2: Install Node.js and NPM from Browser </h3>
+
+<hr><h3>Step 2: Install Node.js and NPM from Browser </h3> </hr>
 <p>
 1. Once the installer finishes downloading, launch it. Open the downloads link in your browser and click the file. Or, browse to the location where you have saved the file and double-click it to launch.
 </p>

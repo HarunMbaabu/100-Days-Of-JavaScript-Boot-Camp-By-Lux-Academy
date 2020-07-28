@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
-<img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg" alt=
+<img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg">
 </p>
 
 <hr>

@@ -1,6 +1,9 @@
 ##  100 Days of JavaScript with Lux code snippets.
 
 <hr>
+![Alternate image text](https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg)
+
+<hr>
 <h2> Running the code:</h2>
 
 <p> To run the code you need NodeJS</P>

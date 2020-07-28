@@ -1,7 +1,7 @@
 ##  100 Days of JavaScript with Lux code snippets.
 
 <hr>
-`![image text](https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg)``
+![image text](https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg)
 
 <hr>
 <h2> Running the code:</h2>

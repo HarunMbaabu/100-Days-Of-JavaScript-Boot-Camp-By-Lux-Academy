@@ -1,8 +1,9 @@
 ##  100 Days of JavaScript with Lux code snippets.
 
 <hr>
+<p align="center">
 <img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg" alt=
-
+</p>
 
 <hr>
 <h2> Running the code:</h2>

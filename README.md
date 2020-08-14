@@ -1,5 +1,8 @@
 ##  100 Days of JavaScript with Lux code snippets.
-
+<hr>
+<p>100 Days of JavaScript is a <b> 20 Weeks Responsive and progresive web developement </b> training Boot Camp by Lux Tech Academy.</p>
+<p> All resources used you can find the in this repository </p>
+<hr>
 <hr>
 <p align="center">
 <img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg">

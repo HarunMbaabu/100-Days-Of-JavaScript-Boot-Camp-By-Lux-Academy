@@ -94,7 +94,7 @@ Day 6 :
 
 Day 7 
 
-hr />
+<hr />
 
 Day 8 
 

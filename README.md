@@ -64,3 +64,49 @@
 <p align="center">
 <img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/strings/demo.png">
 </p>
+
+
+<hr />
+Notes per Day: 
+<hr /> 
+Day 1 : 
+
+<hr />
+
+Day 2:
+
+<hr />
+Day 3: 
+
+<hr />
+
+Day 4:
+
+<hr />
+
+Day 5: 
+
+<hr />
+
+Day 6 :
+
+<hr />
+
+Day 7 
+
+hr />
+
+Day 8 
+
+<hr />
+
+Day 9: 
+
+<hr />
+
+Day  10: 
+
+<hr />
+
+
+

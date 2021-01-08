@@ -69,14 +69,15 @@
 <hr />
 Notes per Day: 
 <hr /> 
-Day 1 : 
+Day 1 : https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Day1.pdf
 
 <hr />
 
-Day 2:
+Day 2: https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Day2.pdf
 
 <hr />
-Day 3: 
+
+Day 3: https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Day3.pdf
 
 <hr />
 
@@ -88,7 +89,7 @@ Day 5:
 
 <hr />
 
-Day 6 :
+Day 6 : https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Day6.pdf
 
 <hr />
 

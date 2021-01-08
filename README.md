@@ -93,15 +93,15 @@ Day 6 : https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/
 
 <hr />
 
-Day 7 
+Day 7: https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Day7.pdf
 
 <hr />
 
-Day 8 
+Day 8 : https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Day8.pdf
 
 <hr />
 
-Day 9: 
+Day 9: https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Day9Object.pdf
 
 <hr />
 

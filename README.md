@@ -81,11 +81,11 @@ Day 3: https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/D
 
 <hr />
 
-Day 4:
+Day 4: https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/day4.pdf
 
 <hr />
 
-Day 5: 
+Day 5: https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/day5.pdf
 
 <hr />
 

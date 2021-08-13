@@ -13,7 +13,7 @@ All web browsers understand JavaScript and you can take advantage of that to mak
 <hr>
 
 <p align="center">
-<img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/EbsDD8YXQAAIbb7.jpeg">
+<img src="https://github.com/HarunHM/-100-Days-of-JavaScript-with-Lux/blob/master/Screenshot 2021-08-13 at 19.52.08.png">
 </p>
 
 <hr>

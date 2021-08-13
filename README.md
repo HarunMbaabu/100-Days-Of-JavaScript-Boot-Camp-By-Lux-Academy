@@ -1,7 +1,15 @@
 ##  100 Days of JavaScript Boot Camp by [Lux Academy ](https://twitter.com/lux_academy) Learning  Resources.
 <hr>
 <p>100 Days of JavaScript is a <b> 20 Weeks Responsive and progresive web developement </b> training Boot Camp by Lux Tech Academy.</p>
+
 <p> All resources used you can find the in this repository </p>
+<hr>
+JavaScript is a programming language or, in other words, a means by which a computer is instructed to do things. Just the same as one controls humans with hisses and meows, one controls computers with statements written in a programming language.
+
+All web browsers understand JavaScript and you can take advantage of that to make web pages do crazy things! JavaScript started as a way to make web pages more interactive. 
+
+> Nowadays JavaScript runs in more places than just web browsers, it runs on web servers, phones and even robots! **This repository will teach you some JavaScript basics so that you can get up and running in no time**.
+
 <hr>
 
 <p align="center">
